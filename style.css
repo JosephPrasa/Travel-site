@@ -1,0 +1,67 @@
+body {
+    background-image: url(https://www.hdwallpapers.in/download/black_and_white_picture_of_paris_eiffel_tower_and_red_lights_on_road_with_dark_sky_background_during_night_hd_travel-HD.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+.b1 {
+    color: white;
+}
+.Travxx.l {
+    margin-left: 4cm;
+    margin-right: 4cm;
+}
+.k1 {
+    margin-left: 4cm;
+    margin-right: 4cm;
+}
+.k2 {
+    margin-left: 4cm;
+    margin-right: 4cm;
+    text-decoration: none;
+    color: aliceblue;
+}
+.k3 {
+    margin-left: 3cm;
+    margin-right: 4cm;
+    text-decoration: none;
+    color: aliceblue;
+}
+.k4 {
+    margin-left: 3cm;
+    margin-right: 4cm;
+    text-decoration: none;
+    color: aliceblue;
+}
+.k5 {
+    margin-left: 15cm;
+    padding-top: 5cm;
+    font-size: 0.6cm;
+}
+.k6 {
+    padding-bottom: 1cm;
+    font-size: 1.5cm;
+    margin-left: 12cm;
+    margin-right: 0cm;
+    margin-top: 0cm;
+    margin-bottom: 0cm;
+}
+.k7 {
+    margin-left: 3cm;
+    padding-bottom:3cm ;
+    font-size: 0.5cm;
+    font-style: normal;
+}
+.k8 {
+    margin-left: 17cm;
+    margin-bottom: 3cm;
+    border-radius: 1cm;
+    border-style:groove;
+    padding-top: 0.3cm;
+    padding-right: 0.5cm;
+    padding-left: 0.5cm;
+    padding-bottom: 0.3cm;
+    background-color:  aqua;
+}
+.k8:hover {
+    background-color: rgb(22, 158, 61);
+}
